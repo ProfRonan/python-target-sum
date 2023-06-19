@@ -1,6 +1,7 @@
 """Esse arquivo testa o arquivo main.py"""
 
 import unittest  # para criar o caso de teste
+
 from main import target_sum
 
 
